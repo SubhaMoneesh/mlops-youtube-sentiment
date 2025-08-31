@@ -1,4 +1,4 @@
-# End-to-end-Youtube-Sentiment
+# MLOps-Youtube-Sentiment
 
 
 conda create -n youtube python=3.11 -y
